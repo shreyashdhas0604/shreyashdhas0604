@@ -49,27 +49,54 @@
   </table>
 </div>
 
-
-
-
 ## 🎯 **Performance Dashboard**
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=shreyashdhas0604&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&custom_title=📊+GitHub+Analytics&title_color=6366F1&icon_color=6366F1&text_color=ffffff&bg_color=0D1117" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=shreyashdhas0604&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&custom_title=📊+GitHub+Analytics&title_color=6366F1&icon_color=6366F1&text_color=ffffff&bg_color=0D1117&cache_seconds=1800" height="200" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashdhas0604&layout=compact&theme=react&hide_border=true&langs_count=8&title_color=6366F1&text_color=ffffff&bg_color=0D1117" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashdhas0604&layout=compact&theme=react&hide_border=true&langs_count=8&title_color=6366F1&text_color=ffffff&bg_color=0D1117&cache_seconds=1800" height="200" />
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com?user=shreyashdhas0604&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=6366F1&ring=6366F1&currStreakLabel=6366F1&sideLabels=6366F1&background=0D1117" height="200" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashdhas0604&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=6366F1&ring=6366F1&currStreakLabel=6366F1&sideLabels=6366F1&background=0D1117&cache_seconds=1800" height="200" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashdhas0604&repo=campus-connect&theme=react&hide_border=true&title_color=6366F1&text_color=ffffff&bg_color=0D1117" height="200" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyashdhas0604&theme=react&hide_border=true&cache_seconds=1800" height="200" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📈 **Additional Dynamic Stats**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyashdhas0604&theme=react&hide_border=true&cache_seconds=1800" height="180" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyashdhas0604&theme=react&hide_border=true&cache_seconds=1800" height="180" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyashdhas0604&theme=react&hide_border=true&cache_seconds=1800" height="180" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🔥 **Real-time Repository Stats**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashdhas0604&repo=campus-connect&theme=react&hide_border=true&title_color=6366F1&text_color=ffffff&bg_color=0D1117&cache_seconds=1800" height="120" />
       </td>
     </tr>
   </table>
@@ -124,8 +151,10 @@
 ## 📊 **Contribution & Activity Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashdhas0604&theme=react-dark&hide_border=true&area=true&custom_title=🔥+Contribution+Heatmap&radius=16&point=6366F1&line=6366F1&area_color=6366F1" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashdhas0604&theme=react-dark&hide_border=true&area=true&custom_title=🔥+Contribution+Heatmap&radius=16&point=6366F1&line=6366F1&area_color=6366F1&cache_seconds=1800" width="95%" />
 </div>
+
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" />
@@ -154,6 +183,7 @@
     </tr>
   </table>
 </div>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" />
@@ -253,7 +283,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" />
 </p>
-
 
 ## 🏆 **Achievement Unlocked**
 
