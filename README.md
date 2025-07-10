@@ -215,7 +215,7 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://linkedin.com/in/shreyashdhas">
+        <a href="https://www.linkedin.com/in/shreyash-dhas-4889b4257/">
           <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
       </td>
@@ -237,7 +237,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://leetcode.com/shreyashdhas">
+        <a href="https://leetcode.com/shreyash0604">
           <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
       </td>
