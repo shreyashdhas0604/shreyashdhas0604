@@ -1,279 +1,305 @@
-# Hey there! 👋 I'm Shreyash Dhas
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Code.%20Create.%20Innovate.%20Repeat.&fontSize=24&fontAlignY=30&animation=fadeIn&fontColor=ffffff&font=Fira%20Code" />
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I'm+Shreyash+Dhas;Computer+Engineering+Student;Full-Stack+Developer;Problem+Solver+%7C+Code+Architect;Building+Digital+Solutions" alt="Typing SVG" />
+</p>
 
 <div align="center">
+  <h3>⚡ Transforming Ideas into Code Since 2022 ⚡</h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=shreyashdhas0604&label=Profile%20views&color=6366F1&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/shreyashdhas0604?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/shreyashdhas0604?label=Stars&style=social" alt="GitHub Stars" />
+  </p>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" />
+</p>
+
+## 🏆 **Achievement Showcase**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🎓_CGPA-9.24%2F10-gold?style=for-the-badge&logo=star&logoColor=black" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🥇_Team_Lead-PULZION'24-gold?style=for-the-badge&logo=trophy&logoColor=black" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/⭐_2_Star-CodeChef_1496-silver?style=for-the-badge&logo=codechef&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏅_Rating-LeetCode_1508-bronze?style=for-the-badge&logo=leetcode&logoColor=black" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💻_Projects-3%2B_Major-success?style=for-the-badge&logo=github&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🧩_Problems-250%2B_Solved-blueviolet?style=for-the-badge&logo=algorithm&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shreyashdhas0604&theme=darkhub&no-frame=true&margin-w=15&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" />
+</p>
+
+## 🎯 **Performance Dashboard**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shreyashdhas0604&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&custom_title=📊+GitHub+Analytics&title_color=6366F1&icon_color=6366F1&text_color=ffffff&bg_color=0D1117" height="170" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shreyashdhas0604&layout=compact&theme=react&hide_border=true&langs_count=10&title_color=6366F1&text_color=ffffff&bg_color=0D1117" height="170" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=shreyashdhas0604&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=6366F1&ring=6366F1&currStreakLabel=6366F1&sideLabels=6366F1&background=0D1117" height="170" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" />
+</p>
+
+## 🛠️ **Tech Stack Universe**
+
+<div align="center">
+  <h3>💻 Programming Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,java,html,css" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </p>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student+%40+PICT;Full+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Web+Applications;Passionate+about+Clean+Code+%26+Innovation)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyashdhas0604&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shreyashdhas0604?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-Maharashtra%2C%20India-success" alt="Lives" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" alt="Languages" />
-</div>
-
----
-
-## 🚀 About Me
-
-> *"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-I'm a **Computer Engineering student** at **Pune Institute of Computer Technology** with a passion for building scalable, user-centric applications. Currently maintaining a **9.24 CGPA** and diving deep into **microservices architecture** and **competitive programming**.
-
-- 🎓 **Education**: Bachelor in Computer Engineering | **CGPA: 9.24/10**
-- 💻 **Currently Working On**: Campus-Connect (Microservices Architecture)
-- 🧠 **Learning**: Advanced System Design, Distributed Systems, Cloud Architecture
-- 🎯 **Goals**: Contributing to open-source projects and building impactful solutions
-- ⚡ **Fun Fact**: I love solving complex DSA problems and have solved **250+ problems** across platforms!
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### 🗄️ Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🔧 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🤖 AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
+  <h3>🌐 Frontend Technologies</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+    <img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
   
-### 🏥 MediFlow - OPD Management System
-*Oct 2024 - Jan 2025*
-
-[![MediFlow](https://img.shields.io/badge/Project-MediFlow-blue?style=for-the-badge&logo=react)](https://github.com/shreyashdhas0604/mediflow)
-[![Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge&logo=vercel)](https://your-demo-link.com)
-
-**A comprehensive OPD Management System revolutionizing healthcare workflows**
-
-🔹 **Tech Stack**: React.js, Node.js, PostgreSQL, Redis, Apache Kafka, Docker  
-🔹 **Key Features**: Virtual consultations, Dynamic scheduling, Role-based access control  
-🔹 **Impact**: Enhanced system responsiveness by 40% with Redis caching  
-
-</div>
-
----
-
-<div align="center">
+  <h3>⚙️ Backend & APIs</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+    <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge&logo=api&logoColor=white" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  </p>
   
-### 🌐 Campus-Connect - Event Management Platform
-*Ongoing Project*
-
-[![Campus-Connect](https://img.shields.io/badge/Project-Campus%20Connect-green?style=for-the-badge&logo=javascript)](https://github.com/shreyashdhas0604/campus-connect)
-[![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)](https://github.com/shreyashdhas0604/campus-connect)
-
-**Modern microservices-based platform for campus event management**
-
-🔹 **Architecture**: Microservices with Docker & NGINX  
-🔹 **Features**: Event scheduling, Club memberships, Real-time notifications  
-🔹 **CI/CD**: Automated deployment pipeline with GitHub Actions  
-
-</div>
-
----
-
-<div align="center">
+  <h3>🗄️ Databases & Caching</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+    <img src="https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge&logo=database&logoColor=white" />
+  </p>
   
-### 🔬 Lesion Lens - AI-Powered Skin Cancer Detection
-*Jan 2024 - Apr 2024*
-
-[![Lesion Lens](https://img.shields.io/badge/Project-Lesion%20Lens-red?style=for-the-badge&logo=tensorflow)](https://github.com/shreyashdhas0604/lesion-lens)
-[![ML](https://img.shields.io/badge/ML-TensorFlow-orange?style=for-the-badge&logo=tensorflow)](https://github.com/shreyashdhas0604/lesion-lens)
-
-**Android app for accurate skin cancer detection using deep learning**
-
-🔹 **ML Model**: InceptionResNetv2 with HAM10000 dataset  
-🔹 **Framework**: TensorFlow Lite for mobile optimization  
-🔹 **Accuracy**: 94.5% accuracy in skin lesion classification  
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shreyashdhas0604&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-
-<!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shreyashdhas0604&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
-
-</div>
-
-<div align="center">
+  <h3>🤖 AI & Machine Learning</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=tensorflow,py" />
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+    <img src="https://img.shields.io/badge/InceptionResNetv2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  </p>
   
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=shreyashdhas0604&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" />
+  <h3>☁️ DevOps & Deployment</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,github" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+    <img src="https://img.shields.io/badge/CI%2FCD-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
+</div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" />
+</p>
+
+## 🚀 **Featured Projects Showcase**
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🏥 MediFlow</h3>
+        <a href="https://github.com/shreyashdhas0604/mediflow">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashdhas0604&repo=mediflow&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" />
+        </a>
+        <p><strong>OPD Management System</strong></p>
+        <p>💊 Virtual consultations & Dynamic scheduling</p>
+        <p>🔧 React.js | Node.js | PostgreSQL | Redis | Kafka</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>🌐 Campus-Connect</h3>
+        <a href="https://github.com/shreyashdhas0604/campus-connect">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashdhas0604&repo=campus-connect&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" />
+        </a>
+        <p><strong>Campus Event Platform</strong></p>
+        <p>🎯 Microservices Architecture | Real-time notifications</p>
+        <p>🔧 Node.js | Docker | NGINX | MongoDB</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
+  <h3>🔬 Lesion Lens - AI-Powered Diagnosis</h3>
+  <a href="https://github.com/shreyashdhas0604/lesion-lens">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashdhas0604&repo=lesion-lens&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" />
+  </a>
+  <p><strong>Skin Cancer Detection App</strong> | 🤖 TensorFlow Lite | 📱 Android | 🧠 InceptionResNetv2</p>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" />
+</p>
+
+## 📊 **Contribution & Activity Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashdhas0604&theme=react-dark&hide_border=true&area=true&custom_title=🔥+Contribution+Heatmap&radius=16&point=6366F1&line=6366F1&area_color=6366F1" width="95%" />
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" />
+</p>
+
+## 🎓 **Education & Leadership**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🏛️ Academic Excellence</h3>
+        <p><strong>Pune Institute of Computer Technology</strong></p>
+        <p>📚 Bachelor in Computer Engineering</p>
+        <p>🎯 CGPA: <strong>9.24/10</strong></p>
+        <p>📅 Nov 2022 - Present</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>👥 Leadership & Activities</h3>
+        <p><strong>PICT ACM Student Chapter</strong></p>
+        <p>🏅 PULZION'24 Team Lead</p>
+        <p>💻 CodeDelicious Event Curator</p>
+        <p>🤝 Active Volunteer & Contributor</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" />
+</p>
+
+## 🤝 **Connect & Collaborate**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/shreyashdhas">
+          <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:shreyashrdhas@gmail.com">
+          <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/shreyashdhas0604">
+          <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.codechef.com/users/shreyashdhas">
+          <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://leetcode.com/shreyashdhas">
+          <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="tel:+918766725367">
+          <img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" />
+</p>
+
+## 🎯 **Competitive Programming Stats**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/CodeChef-2⭐-orange?style=for-the-badge&logo=codechef&logoColor=white" />
+        <p><strong>Rating: 1496</strong></p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/LeetCode-1508-yellow?style=for-the-badge&logo=leetcode&logoColor=black" />
+        <p><strong>Current Rating</strong></p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Problems-250+-success?style=for-the-badge&logo=algorithm&logoColor=white" />
+        <p><strong>DSA Solved</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" />
+</p>
+
+## 💡 **Inspirational Quote**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&border=true&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs" />
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" />
+</p>
+
+## 🏆 **Developer Achievements**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏅_Academic_Excellence-CGPA_9.24-gold?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/👨‍💻_Active_Coder-Daily_Problem_Solver-success?style=for-the-badge&logo=code" />
+  <img src="https://img.shields.io/badge/🚀_Project_Builder-3%2B_Major_Projects-blue?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/🛠️_Tech_Stack-Full_Stack_Developer-purple?style=for-the-badge&logo=stack-overflow" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=30&fontAlignY=70&animation=fadeIn&fontColor=ffffff" />
+</div>
+
+<div align="center">
+  <h3>🚀 <em>"Code is poetry written in logic."</em> - Unknown</h3>
+  <p><strong><em>Keep building, keep learning, keep growing! ✨</em></strong></p>
   
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashdhas0604&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" />
-
-</div>
-
-<!-- Alternative GitHub Stats (if above doesn't work) -->
-<details>
-<summary>📈 Alternative GitHub Stats</summary>
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyashdhas0604&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/shreyashdhas0604)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashdhas0604&layout=compact&theme=dark&langs_count=8)](https://github.com/shreyashdhas0604)
-
-</div>
-
-</details>
-
----
-
-## 🏆 Achievements & Competitive Programming
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=shreyashdhas0604&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-
-</div>
-
-### 🎯 Competitive Programming Stats
-- **🌟 CodeChef**: 2-Star Coder (Rating: 1496) | [Profile](https://www.codechef.com/users/shreyashdhas)
-- **💡 LeetCode**: Current Rating 1508 | [Profile](https://leetcode.com/shreyashdhas)
-- **🧩 Problem Solving**: 250+ DSA problems solved across platforms
-- **🏅 Contest Participation**: Regular participant in coding competitions
-
-### 📈 Coding Activity
-```text
-🕒 Morning     ████████░░░░░░░░░░░░░   35.2% 
-🌆 Daytime     ████████████░░░░░░░░░   52.3% 
-🌃 Evening     ██████░░░░░░░░░░░░░░░   28.7% 
-🌙 Night       ████░░░░░░░░░░░░░░░░░   18.9% 
-```
-
----
-
-## 🎓 Leadership & Extracurriculars
-
-<div align="center">
-
-### 🏛️ PICT ACM Student Chapter
-**Member** | *Sept 2023 - Present*
-
-🔹 **PULZION'24 Team Lead**: Directed Compute & Compete event  
-🔹 **Event Curator**: Designed challenging questions for CodeDelicious  
-🔹 **Volunteer**: Active contributor to college's flagship tech events  
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyashdhas)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashrdhas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyashdhas0604)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shreyashdhas)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shreyashdhas)
-
-</div>
-
-<div align="center">
-  
-### 📞 Contact Information
-**📧 Email**: shreyashrdhas@gmail.com  
-**📱 Phone**: +91-8766725367  
-**📍 Location**: Maharashtra, India  
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-
-<div align="center">
-  
-### 🎯 Current Focus
-```javascript
-const shreyash = {
-    pronouns: "He/Him",
-    currentFocus: "Building scalable microservices",
-    currentlyLearning: ["System Design", "Cloud Architecture", "DevOps"],
-    askMeAbout: ["Web Development", "Competitive Programming", "System Design"],
-    technologies: {
-        frontEnd: ["React", "JavaScript", "HTML", "CSS", "Tailwind"],
-        backEnd: ["Node.js", "Express", "PostgreSQL", "MongoDB", "Redis"],
-        devOps: ["Docker", "NGINX", "GitHub Actions", "AWS"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-        misc: ["Apache Kafka", "Microservices", "REST APIs"]
-    },
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
-</div>
-
----
-
-<div align="center">
-  
-**✨ Thanks for visiting my profile! Let's build something amazing together! ✨**
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+create+together!;Happy+coding!+%F0%9F%9A%80" alt="Closing message" />
 </div>
