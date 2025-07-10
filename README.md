@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashdhas0604&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=6366F1&ring=6366F1&currStreakLabel=6366F1&sideLabels=6366F1&background=0D1117&cache_seconds=1800" height="200" />
+        <img src="https://streak-stats.demolab.com?user=shreyashdhas0604&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=6366F1&ring=6366F1&currStreakLabel=6366F1&sideLabels=6366F1&background=0D1117&cache_seconds=1800" height="200" />
       </td>
       <td align="center" width="50%">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyashdhas0604&theme=react&hide_border=true&cache_seconds=1800" height="200" />
@@ -93,10 +93,10 @@
 ### 🔥 **Real-time Repository Stats**
 
 <div align="center">
-  <table>
+  <table style="width: 80%;">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashdhas0604&repo=campus-connect&theme=react&hide_border=true&title_color=6366F1&text_color=ffffff&bg_color=0D1117&cache_seconds=1800" height="120" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashdhas0604&repo=campus-connect&theme=react&hide_border=true&title_color=6366F1&text_color=ffffff&bg_color=0D1117&cache_seconds=1800" width="500" />
       </td>
     </tr>
   </table>
