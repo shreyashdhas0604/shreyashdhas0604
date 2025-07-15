@@ -49,9 +49,9 @@
   </table>
 </div>
 
-## 🎯 **Performance Dashboard**
+<!--## 🎯 **Performance Dashboard** -->
 
-<div align="center">
+<!--<div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
@@ -67,6 +67,29 @@
       </td>
       <td align="center" width="50%">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyashdhas0604&theme=react&hide_border=true&cache_seconds=1800" height="200" />
+      </td>
+    </tr>
+  </table>
+</div>
+-->
+## 🎯 **Performance Dashboard**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=shreyashdhas0604&show_icons=true&theme=react&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=ffffff&bg_color=0D1117" height="200" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashdhas0604&layout=compact&theme=react&hide_border=true&langs_count=8&title_color=6366F1&text_color=ffffff&bg_color=0D1117" height="200" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://streak-stats.demolab.com?user=shreyashdhas0604&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=6366F1&ring=6366F1&currStreakLabel=6366F1&sideLabels=6366F1&background=0D1117" height="200" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyashdhas0604&theme=react&hide_border=true" height="200" />
       </td>
     </tr>
   </table>
